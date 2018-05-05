@@ -2,8 +2,6 @@
 #include<conio.h>
 main()
 {
-char name;
-cout<<"hello";
 printf("Enter you name ->");
 gets(name);
 printf("Your name is %s",name);
