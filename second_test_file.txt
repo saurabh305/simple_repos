@@ -1,13 +1,10 @@
-#include<stdio.h>
-#include<conio.h>
-
-void main()
+int main()
 {
 clrscr();
 int i=10;
-string char name;
 printf("Enter you name ->");
 gets(name);
 printf("Your name is %s",name);
 getch();
+return 0;
 }
