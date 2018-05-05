@@ -1,7 +1,7 @@
 int main()
 {
-clrscr();
-int i=10;
+int i=1;
+std::cout<<"Bye";
 printf("Enter you name ->");
 gets(name);
 printf("Your name is %s",name);
