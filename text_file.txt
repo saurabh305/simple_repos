@@ -1,11 +1,9 @@
 #include<stdio.h>
 #include<conio.h>
-
-void main()
+main()
 {
 char name;
 printf("Enter you name ->");
 gets(name);
 printf("Your name is %s",name);
-return 0;
 }
