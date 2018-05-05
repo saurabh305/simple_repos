@@ -10,4 +10,5 @@ printf("Enter you name ->");
 gets(name);
 printf("Your name is %s",name);
 getch();
+return 0;
 }
