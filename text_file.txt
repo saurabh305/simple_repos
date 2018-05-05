@@ -4,6 +4,7 @@
 void main()
 {
 clrscr();
+int i=10;
 printf("Enter you name ->");
 gets(name);
 printf("Your name is %s",name);
