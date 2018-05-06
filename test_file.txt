@@ -6,4 +6,7 @@ printf("Enter you name ->");
 gets(name);
 printf("Your name is %s",name);
 getch();
+std::cout<<Saurabh;
+std::cin>>chandra;
+return 0;
 }
